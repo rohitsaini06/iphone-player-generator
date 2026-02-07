@@ -9,13 +9,13 @@ This is a Python CLI tool built with **Pillow** that overlays album art and song
 ## 🖼 Example
 
 ### Template
-![Template](template.png)
+<img src="template.png" width="200">
 
 ### Cover Used
-![Cover](cover-3.png)
+<img src="cover-3.png" width="200">
 
 ### Generated Output
-![Output](output.png)
+<img src="output.png" width="200">
 
 ---
 
